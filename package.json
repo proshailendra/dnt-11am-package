@@ -1,0 +1,17 @@
+{
+  "name": "dnt-11am-package",
+  "version": "1.0.0",
+  "description": "my test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "package",
+    "npm",
+    "publish"
+  ],
+  "author": "pro.shailendra@gmail.com",
+  "license": "ISC"
+}
